@@ -26,6 +26,10 @@ header.masthead .overlay {
     border-color: #ec5c1c;
 }
 
+.masthead a {
+    text-decoration: none;
+}
+
 .btn-primary:hover {
     color: #fff;
     background-color: #ec5c1c;
