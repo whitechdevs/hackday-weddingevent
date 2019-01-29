@@ -25,9 +25,10 @@ function ImageShowcase(props) {
               }}
             />
             <div className="col-lg-6 order-lg-1 my-auto showcase-text">
-              <h2>Organise your event</h2>
+              <h2>Plan for your moments</h2>
               <p className="lead mb-0">
-              is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                Experience like never before to plan and orgasinse your most important moments in life. It is a one stop solution here, everything you need for
+                your wedding is well planned orgasinsed here.
               </p>
             </div>
           </div>
@@ -37,13 +38,14 @@ function ImageShowcase(props) {
               style={{
                 background: `url(${imgShowcase2})`,
                 backgroundRepeat: `no-repeat`,
-                backgroundSize: `100% 100%`
+                backgroundSize: `100% 250%`,
               }}
             />
             <div className="col-lg-6 my-auto showcase-text">
               <h2>Invite Guest</h2>
               <p className="lead mb-0">
-              is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+               Inviting your familiy, your friends, your classmates and workmates to attend your wedding ceremony has never been easier like this, you can have them all
+               as your private photographers to keep your most moments forever. 
               </p>
             </div>
           </div>
@@ -59,7 +61,7 @@ function ImageShowcase(props) {
             <div className="col-lg-6 order-lg-1 my-auto showcase-text">
               <h2>Easy to Use &amp; Customize</h2>
               <p className="lead mb-0">
-              is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                You will be enjoying your important moments with 100% control over your wedding photos like never before, you can tailor your own photos to your needs after anywhere anytime.
               </p>
             </div>
           </div>
