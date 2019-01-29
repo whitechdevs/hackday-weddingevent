@@ -29,7 +29,7 @@ function Masthead(props) {
                       type="submit"
                       className="btn btn-block btn-lg btn-primary"
                     >
-                      Register an Event
+                      Book Now
                     </button>
                     </a>
                   </div>
